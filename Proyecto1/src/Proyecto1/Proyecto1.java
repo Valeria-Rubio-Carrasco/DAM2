@@ -10,6 +10,4 @@ public class Proyecto1 {
 		System.out.println("Hoy es 21/04/2025");
 		
 	}
-	
-
 }
